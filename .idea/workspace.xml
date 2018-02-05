@@ -43,8 +43,13 @@
       <file leaf-file-name="About.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/shmazi/ashtray/About.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="221">
               <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+=======
+            <state relative-caret-position="170">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -1061,6 +1066,7 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../satlist/build.gradle" />
     <property name="FullScreen" value="false" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1373,7 +1379,25 @@
       <option name="project" value="LOCAL" />
       <updated>1517859946315</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="4" />
+=======
+    <task id="LOCAL-00004" summary="commit">
+      <created>1517859984184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1517859984184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1517860274768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1517860274768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1486,8 +1510,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/shmazi/ashtray/About.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="221">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+=======
+        <state relative-caret-position="170">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
