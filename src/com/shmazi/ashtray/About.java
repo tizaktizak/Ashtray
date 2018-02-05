@@ -14,7 +14,7 @@ public class About extends Activity{
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.about);
 		text = (TextView)findViewById(R.id.tvTextAbout);
-		//
+		int i = 0;
 	}
 
 	@Override
