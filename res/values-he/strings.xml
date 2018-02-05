@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">מאפרה</string>
+    <string name="intro">לחץ על הפרסומת אם האפליקציה גרמה לך לחייך :)</string>
+    <string name="menu_about">אודות</string>
+    <string name="menu_send">שלח לחבר</string>
+    <string name="menu_change">החלף מאפרה</string>
+    <string name="menu_exit">יציאה</string>
+    <string name="toast_future">יתאפשר בעתיד</string>
+    
+</resources>
