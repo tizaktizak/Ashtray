@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Aviad-pc/Desktop/android/workspace/Ashtray/res/values-he/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">מאפרה</string>
+    <string name="intro">לחץ על הפרסומת אם האפליקציה גרמה לך לחייך :)</string>
+    <string name="menu_about">אודות</string>
+    <string name="menu_change">החלף מאפרה</string>
+    <string name="menu_exit">יציאה</string>
+    <string name="menu_send">שלח לחבר</string>
+    <string name="toast_future">יתאפשר בעתיד</string>
+
+</resources>

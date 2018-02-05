@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="30dp" >
+
+    <TextView
+        android:id="@+id/tv_intro"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:textColor="#51cbff"
+        android:text="@string/intro" />
+
+</LinearLayout><!-- From: file:/C:/Users/Aviad-pc/Desktop/android/workspace/Ashtray/res/layout-small/intro.xml -->

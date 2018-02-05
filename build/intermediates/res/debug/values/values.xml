@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Aviad-pc/Desktop/android/workspace/Ashtray/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Ashtray</string>
+    <string name="intro">Hit the banner at the bottom if this app made you smile :)</string>
+    <string name="menu_about">About</string>
+    <string name="menu_change">Change Ashtray</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_send">Send To a Friend</string>
+    <string name="toast_future">will be available in the future</string>
+    <!-- From: file:/C:/Users/Aviad-pc/Desktop/android/workspace/Ashtray/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

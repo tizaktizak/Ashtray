@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+    <TextView
+        android:id="@+id/tvTextAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="This App was developed by: Aviad Lidani"
+        android:textSize="30dp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:id="@+id/tvVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Version 1.0"
+        android:textColor="#FFFFFF"
+        android:textSize="17dp" />
+
+</LinearLayout><!-- From: file:/C:/Users/Aviad-pc/Desktop/android/workspace/Ashtray/res/layout/about.xml -->
