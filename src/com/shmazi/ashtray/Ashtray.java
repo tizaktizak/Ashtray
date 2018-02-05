@@ -1,6 +1,6 @@
 package com.shmazi.ashtray;
 
-import com.google.android.gms.ads.AdView;
+//import com.google.android.gms.ads.AdView;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class Ashtray extends Activity {
 
-	AdView adview;
+	//AdView adview;
 	String str;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -63,9 +63,9 @@ public class Ashtray extends Activity {
 	@Override
 	protected void onDestroy() {
 		// TODO Auto-generated method stub
-		if (adview != null) {
-			adview.destroy();
-		}
+	//	if (adview != null) {
+	//		adview.destroy();
+	//	}
 		super.onDestroy();
 	}
 }
